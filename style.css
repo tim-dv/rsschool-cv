@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, serif;
+    font-size: 16px;
+    width: 70%;
+    padding: 10px;
+    margin: auto;
+}
+
+header {
+	padding: 7px;
+	padding-left: 50px;
+	background: #f9de0f;
+}
+
+main {
+	padding: 7px;
+	padding-left: 50px;
+	background: #f8f7f2;
+}
+
+footer {
+	padding: 7px;
+	background: #f9de0f;
+}
+
+h1, 
+h3 {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+	text-indent: 25px;
+}
